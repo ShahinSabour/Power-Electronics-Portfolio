@@ -8,5 +8,4 @@
 
 | No. |    Hands-on Experience |            Title                 |        Research      | 
 |---- |   -------------------- |   ------------------------------ |     -------------   |
-|1    |   PWM modulation       |     Multilevel inverter | [Surpassing capacitors's current spike]
-(https://github.com/ShahinSabour/multilevel_inverter_17Level)           |
+|1    |   PWM modulation       |     Multilevel inverter | [Surpassing capacitors's current spike] (https://github.com/ShahinSabour/multilevel_inverter_17Level) |
