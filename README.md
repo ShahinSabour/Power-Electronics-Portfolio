@@ -7,7 +7,7 @@
 
 
 
-| No. |    Hands-on Experience |            Title                 |        Aim      | 
+| No. |    Modulation |            Title                 |        Aim      | 
 |---- |   -------------------- |   ------------------------------ |     -------------   |
 |1    |   PWM modulation       |     Multilevel inverter | [Surpassing capacitors's current spike](https://github.com/ShahinSabour/multilevel_inverter_17Level) |
 |2 |   Space vector modulation |   Three-phase two-level inverter |     [Generating optimal output and also reducing harmonic content of the output voltage/current](https://github.com/ShahinSabour/two_level_inverter)   |
